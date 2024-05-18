@@ -1,19 +1,16 @@
 
-<!-- ## <span id="j7"><font color='darkblue' face="Georgia">RESEARCH & PROJECTS</font></span> -->
-
-  <!-- <img alt="" align="right" src="future_network_systems.png" /> -->
+* **Project Information**
+  * Award numbers: NFS CNS-2312138
+  * Project period: 10/1/2023 – 9/30/2026
+  * Principal investigator: Dr. Yuchen Liu
+  * Graduate students: Zifan Zhang, Zhizhen Li
 
 * <font size=4> NSF Collaborative Research: NeTS: Small: Digital Network Twins: Mapping Next Generation Wireless into Digital Reality </font>
 &emsp;
     <!-- <img alt="" src="Research8.png" width="65%" height="65%" /> -->
 
 &emsp;
-  <!--* **networking and systems** (wireless, new network architecture, protocols, digital twins, and security)-->
-  <!--* **machine learning for data, networking, sensing, and security** (generative AI, self-awareness system, data analytics)-->
-  <!--* **mobile computing** (infrastructure mobility, UAVs, robotic networked systems)-->
-  <!--* **new communication paradigms** (mmWave, THz, nextG Wi-Fi) -->
-  <!--* **optimization and resilience** (theory, large-scale models and systems)-->
-  <!--* **software and simulator design** (programmable networking, open-source testbed, ns-3)-->
+
   * **Wireless Networks, Digital Twins, and Security;**
   * **Generative AI and Distributed/Reinforcement Learning for Self-Awareness Systems;**
   * **Mobile Computing and Sensing (infrastructure mobility, UAVs, multi-modal sensing);**
