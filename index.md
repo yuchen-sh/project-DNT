@@ -51,7 +51,7 @@
 
   * The repository for the development of digital twin in next-generation wireless network (mmWave, 5G/6G) based on ns-3 and ray tracer. [Link](https://github.com/yuchen-sh/Network-Digital-Twin)
  
-  * The platform for the development of digital twin in 3D wireless networks for signal source localization based on NSF AERPAW testbed and Virtual Development Environment. [Link (to be announced)](https://github.ncsu.edu/bchatte/RoverChallenge))
+  * The platform for the development of digital twin in 3D wireless networks for signal source localization based on NSF AERPAW testbed and Virtual Development Environment. [Link (to be announced)](https://github.ncsu.edu/bchatte/RoverChallenge)
 
 
 &emsp;
@@ -60,7 +60,7 @@
 
 * **<font size=4> Education, Outreach and Broader Impacts </font>**
 
-  * The introduction of using digital network twin has been added in the graduate class CSC/ECE Advanced NextG Network Design at North Carolina State University.
+  * The introduction of digital network twin has been added in the graduate class CSC/ECE Advanced NextG Network Design at North Carolina State University.
  
   * Organize Summer Residential Camp: Seeing through a Digital World, inspiring high-school students to explore the intricate workings of complex network systems and simulations within the digital realm.
 
