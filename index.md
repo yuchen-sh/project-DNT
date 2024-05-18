@@ -3,11 +3,9 @@
 
   <!-- <img alt="" align="right" src="future_network_systems.png" /> -->
 
-* <font size=4> Broad areas of networking, AI/ML, computing, and communication, spanning: </font>
+* <font size=4> NSF Collaborative Research: NeTS: Small: Digital Network Twins: Mapping Next Generation Wireless into Digital Reality </font>
 &emsp;
-   <!-- <p style="text-align: center;"> -->
-    <img alt="" src="Research8.png" width="65%" height="65%" />
-   <!-- </p> -->
+    <!-- <img alt="" src="Research8.png" width="65%" height="65%" /> -->
 
 &emsp;
   <!--* **networking and systems** (wireless, new network architecture, protocols, digital twins, and security)-->
@@ -47,9 +45,9 @@
   * **Security Architecture and Modularization of Mobile Communication Network-Element Software**
   
   
-  <!-- <p style="text-align: center;"> -->
-  <img alt="" src="sponsor6.png" width="86%" height="86%" />
-  <!-- </p> -->
+
+  <!-- <img alt="" src="sponsor6.png" width="86%" height="86%" /> -->
+
 
 <!-- * Activities: My researches are focused on two network scenarios for mmWave communication: 1) mmWave backhaul networks and 2) mmWave WLAN (primarily in the indoor context). For mmWave backhaul networks, which is proposed because of the existence of a large number of small-cell BSs within each macro-cell in 5G era and it aims to resolve the issue of forwarding the large amount of backhaul traffic between these small-cell BSs without wired connections, we have investigated design of high throughput relay-assisted backhaul network architecture in urban environments, analyzed the effects of obstacles on backhaul networks, and developed techniques for reconfiguration to provide survivability of backhaul networks in the presence of dynamic obstacles. For mmWave WLAN, we investigated access point (AP) mobility and the use of multiple APs to exploit location sensitivity. These activities primarily involved mathematical analyses and a combination of Matlab and ns-3 simulations. For the access point mobility work, a prototype of a ceiling-mounted AP mobility platform was developed and used for evaluation purposes to complement the mathematical analyses and simulation results. For the multi-AP work, several algorithms were proposed to generate optimal multi-AP placements such that the desirable performance and blockage-free operation can be achieved. The study of multiple mobile APs is also conducted. -->
 
