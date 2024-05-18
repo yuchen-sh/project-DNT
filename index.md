@@ -1,5 +1,5 @@
 
-* <font size=5> Project Information </font>
+* <font size=5> Collaborative Research: NeTS: Small: Digital Network Twins: Mapping Next Generation Wireless into Digital Reality </font>
   * Award numbers: NFS CNS-2312138
   * Project period: 10/1/2023 – 9/30/2026
   * Principal investigator: Dr. Yuchen Liu
