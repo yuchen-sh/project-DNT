@@ -3,7 +3,7 @@
 
 &emsp;
 
-* <font size=4> **Project Information** </font>
+* **<font size=4> Project Information </font>**
 
   * Award numbers: NFS CNS-2312138
   * Project period: 10/1/2023 – 9/30/2026
@@ -17,9 +17,9 @@
 &emsp;
 
 
-* <font size=4> **Project Overview** </font>
+* <font size=4> Project Overview </font>
 
-Next-generation (NextG) wireless networks provide users with customized, instant services, especially for bandwidth-hungry and latency-sensitive applications. Despite the significant advantages of NextG wireless networks (e.g., 5G/6G and millimeter-wave / Tera Hertz), realizing them faces several key deployment and evaluation challenges: 1) how to speed up the deployment of novel yet complex NextG network technologies; and 2) how to provide flexible testbed facilities with high availability. In this regard, there is an urgent need for a virtual solution that could create a digital model to replicate as accurately as possible the NextG network ecosystem and help tackle the above obstacles before the full realization of a real system. To this end, this project explores methodologies to run faithful digital network twins that replicate the physical NextG networks, and then to build and optimize the twins over the actual networks while considering communication, computing, and networking resource constraints. The built network twins provide an overarching architecture involving the whole life cycle of physical networks, serving the critical application of innovative technologies such as network planning, construction, optimization, and predictive evaluation, and improving the automation and intelligence level of the wireless networks. This transformative research provides a holistic framework for the implementation and optimization of digital network twins, thus catalyzing the deployment and operation of future network systems with major societal impact.
+  * Next-generation (NextG) wireless networks provide users with customized, instant services, especially for bandwidth-hungry and latency-sensitive applications. Despite the significant advantages of NextG wireless networks (e.g., 5G/6G and millimeter-wave / Tera Hertz), realizing them faces several key deployment and evaluation challenges: 1) how to speed up the deployment of novel yet complex NextG network technologies; and 2) how to provide flexible testbed facilities with high availability. In this regard, there is an urgent need for a virtual solution that could create a digital model to replicate as accurately as possible the NextG network ecosystem and help tackle the above obstacles before the full realization of a real system. To this end, this project explores methodologies to run faithful digital network twins that replicate the physical NextG networks, and then to build and optimize the twins over the actual networks while considering communication, computing, and networking resource constraints. The built network twins provide an overarching architecture involving the whole life cycle of physical networks, serving the critical application of innovative technologies such as network planning, construction, optimization, and predictive evaluation, and improving the automation and intelligence level of the wireless networks. This transformative research provides a holistic framework for the implementation and optimization of digital network twins, thus catalyzing the deployment and operation of future network systems with major societal impact.
 
 
 &emsp;
@@ -28,14 +28,15 @@ Next-generation (NextG) wireless networks provide users with customized, instant
 
 * <font size=4> Publications </font>
 
- * M. Chen and S. Cui, "Communication Efficient Federated Learning for Wireless Networks", Springer International Publishing, Singapore, 2023.
-H. Yu, Y. Liu, and M. Chen, “Complex-Valued Neural Network Based Federated Learning for Multi-User Indoor Positioning Performance Optimization”, IEEE Internet of Things Journal, to appear, 2024. (Available: ArXiv)
+  * X. Zhang, J. Zhang, K. Chow, J. Chen, Y. Mao, M. Rahouti, X. Li, Y. Liu, and W Wei, "Visualizing the Shadows: Unveiling Data Poisoning Behaviors in Federated Learning", IEEE International Conference on Distributed Computing Systems (ICDCS), Demo paper, to appear, 2024.
 
- * Z. Zhang, M. Chen, Z. Yang, and Y. Liu, "Mapping Wireless Networks into Digital Reality through Joint Vertical and Horizontal Learning", in Proc. IFIP/IEEE Networking, Thessaloniki, Greece, June 2024.
+  * Z. Zhang, M. Chen, Z. Yang, and Y. Liu, "Mapping Wireless Networks into Digital Reality through Joint Vertical and Horizontal Learning", IFIP/IEEE Networking, 2024.
 
- * Z. Li, X. Luo, M. Chen, C. Xu, and Y. Liu, "Context-Aware Beam Management via Online Probing in Combinatorial Multi-Armed Bandits", in Proc. IEEE International Conference on Communications (ICC), Wireless Communications Symposium, Denver, CO, USA, June 2024.
+  * X. Luo, Z. Li, Z. Peng, D. Xu, and Y. Liu, "RM-Gen: Conditional Diffusion Model-Based Radio Map Generation for Wireless Networks", IFIP/IEEE Networking, 2024.
+
+  * Z. Li, X. Luo, M. Chen, C. Xu, and Y. Liu, "Context-Aware Beam Management via Online Probing in Combinatorial Multi-Armed Bandits", IEEE International Conference on Communications (ICC), 2024.
  
- * H. Yu, M. Chen, Z. Yang, and Y. Liu, "Complex Neural Networks for Indoor Positioning with Complex-Valued Channel State Information", in Proc. IEEE Global Communications Conference (GLOBECOM), Selected Areas in Communications: Integrated Sensing and Communication, Kuala Lumpur, Malaysia, December 2023.
+  * H. Yu, M. Chen, Z. Yang, and Y. Liu, "Complex Neural Networks for Indoor Positioning with Complex-Valued Channel State Information", IEEE Global Communications Conference (GLOBECOM), 2023.
   
 
 &emsp;
@@ -44,10 +45,10 @@ H. Yu, Y. Liu, and M. Chen, “Complex-Valued Neural Network Based Federated Lea
 
 * <font size=4> Education, Outreach and Broader Impacts </font>
 
-  * The introduction of using neural networks for digital network twin optimization has been added in the graduate class ECE 553/653 Neural Networks at University of Miami.
+  * The introduction of using digital network twin has been added in the graduate class CSC/ECE Advanced NextG Network Design at North Carolina State University.
+ 
+  * Organize Summer Residential Camp: Seeing through a Digital World, motivating high-school students to delve into the intricacies of complex network systems within the digital realm and simulations.
 
-  * One female Ph.D. student has been recruited to work on the related research at University of Miami.
-Parts of the research results have been presented in IEEE GLOBECOM 2023.
 
 
 
