@@ -1,12 +1,14 @@
 
 <font size=5> Collaborative Research: NeTS: Small: Digital Network Twins: Mapping Next Generation Wireless into Digital Reality </font>
 
-* <font size=4> Project Information </font>
+&emsp;
+
+* <font size=4> **Project Information** </font>
+
   * Award numbers: NFS CNS-2312138
   * Project period: 10/1/2023 – 9/30/2026
   * Principal investigator: Dr. Yuchen Liu
   * Graduate students: Zifan Zhang, Zhizhen Li
-
     <!-- <img alt="" src="Research8.png" width="65%" height="65%" /> -->
 
 
@@ -15,10 +17,14 @@
 &emsp;
 
 
-* <font size=4> Project Overview </font>
+* <font size=4> **Project Overview** </font>
+
 Next-generation (NextG) wireless networks provide users with customized, instant services, especially for bandwidth-hungry and latency-sensitive applications. Despite the significant advantages of NextG wireless networks (e.g., 5G/6G and millimeter-wave / Tera Hertz), realizing them faces several key deployment and evaluation challenges: 1) how to speed up the deployment of novel yet complex NextG network technologies; and 2) how to provide flexible testbed facilities with high availability. In this regard, there is an urgent need for a virtual solution that could create a digital model to replicate as accurately as possible the NextG network ecosystem and help tackle the above obstacles before the full realization of a real system. To this end, this project explores methodologies to run faithful digital network twins that replicate the physical NextG networks, and then to build and optimize the twins over the actual networks while considering communication, computing, and networking resource constraints. The built network twins provide an overarching architecture involving the whole life cycle of physical networks, serving the critical application of innovative technologies such as network planning, construction, optimization, and predictive evaluation, and improving the automation and intelligence level of the wireless networks. This transformative research provides a holistic framework for the implementation and optimization of digital network twins, thus catalyzing the deployment and operation of future network systems with major societal impact.
 
-This proposed research lays the foundations of digital network twins by developing a novel framework that merges tools from machine learning, communication theory, and distributed optimization to advance the networking technologies in: 1) novel mapping approaches that integrate data-driven modeling, ray-tracing analysis, wireless channel derivation, and regression-based predictions to map NextG wireless networks into digital network twins and then to evolve the mapped twins adaptively; 2) new digital network twin management and optimization framework that combines graph neural networks, distributed learning, and reinforcement learning, to allow distributed devices in a physical network to first independently determine their mapping methods and resource utilization, and then collaboratively maximize the digital network twin performance over actual network environments; 3) design of the twinning platform and evaluation methodology based on simulation and experiments to demonstrate the fidelity, efficacy, and optimality of the built network twins. The project provides a rich environment and virtualized platform that facilitate educating and training students at multiple levels.
+
+&emsp;
+&emsp;
+
 
 * <font size=4> Publications </font>
 
@@ -31,6 +37,10 @@ H. Yu, Y. Liu, and M. Chen, “Complex-Valued Neural Network Based Federated Lea
  
  * H. Yu, M. Chen, Z. Yang, and Y. Liu, "Complex Neural Networks for Indoor Positioning with Complex-Valued Channel State Information", in Proc. IEEE Global Communications Conference (GLOBECOM), Selected Areas in Communications: Integrated Sensing and Communication, Kuala Lumpur, Malaysia, December 2023.
   
+
+&emsp;
+&emsp;
+
 
 * <font size=4> Education, Outreach and Broader Impacts </font>
 
