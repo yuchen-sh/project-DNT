@@ -1,12 +1,10 @@
 
-* **Project Information**
+* <font size=5> **Project Information** </font>
   * Award numbers: NFS CNS-2312138
   * Project period: 10/1/2023 – 9/30/2026
   * Principal investigator: Dr. Yuchen Liu
   * Graduate students: Zifan Zhang, Zhizhen Li
 
-* <font size=4> NSF Collaborative Research: NeTS: Small: Digital Network Twins: Mapping Next Generation Wireless into Digital Reality </font>
-&emsp;
     <!-- <img alt="" src="Research8.png" width="65%" height="65%" /> -->
 
 &emsp;
