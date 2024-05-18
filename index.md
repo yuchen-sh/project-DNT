@@ -7,7 +7,7 @@
 
   * Award numbers: NFS CNS-2312138
   * Project period: 10/1/2023 – 9/30/2026
-  * Principal investigator: Dr. Yuchen Liu
+  * Principal investigator: Dr. Yuchen Liu (lead PI), Dr. Mingzhe Chen
   * Graduate students: Zifan Zhang, Zhizhen Li
     <!-- <img alt="" src="Research8.png" width="65%" height="65%" /> -->
 
@@ -47,7 +47,7 @@
 &emsp;
 
 
-* <font size=4> Education, Outreach and Broader Impacts </font>
+* **<font size=4> Education, Outreach and Broader Impacts </font>**
 
   * The introduction of using digital network twin has been added in the graduate class CSC/ECE Advanced NextG Network Design at North Carolina State University.
  
