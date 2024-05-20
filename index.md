@@ -27,20 +27,22 @@
 
 
 * **<font size=4> Publications </font>**
+  
+  * Z. Zhang, Y. Liu, Z. Peng, M. Chen, D. Xu, and S. Cui, ''Digital Twin-Assisted Data-Driven Optimization for Reliable Edge Caching in Wireless Networks'' [J], IEEE Journal on Selected Areas in Communications (**JSAC**) \[J\], to appear, 2024.
 
-  * X. Zhang, J. Zhang, K. Chow, J. Chen, Y. Mao, M. Rahouti, X. Li, Y. Liu, and W Wei, "Visualizing the Shadows: Unveiling Data Poisoning Behaviors in Federated Learning", IEEE International Conference on Distributed Computing Systems (ICDCS), Demo paper, 2024.
+  * X. Zhang, J. Zhang, K. Chow, J. Chen, Y. Mao, M. Rahouti, X. Li, Y. Liu, and W Wei, "Visualizing the Shadows: Unveiling Data Poisoning Behaviors in Federated Learning", IEEE International Conference on Distributed Computing Systems (**ICDCS**), Demo paper, 2024.
 
-  * Z. Zhang, M. Chen, Z. Yang, and Y. Liu, "Mapping Wireless Networks into Digital Reality through Joint Vertical and Horizontal Learning", IFIP/IEEE Networking, 2024.
+  * Z. Zhang, M. Chen, Z. Yang, and Y. Liu, "Mapping Wireless Networks into Digital Reality through Joint Vertical and Horizontal Learning", **IFIP/IEEE Networking**, 2024.
 
-  * B. Chatterjee, S. Chaudhari, Z. Li, Y. Liu, and R. Dutta, "Wireless Signal Source Localization by Unmanned Aerial Vehicle using AERPAW Digital Twin and Testbed", IFIP/IEEE Networking, in the Workshop on Thought experiments, data and reproducibility for networking and FutureG research (SLICES), 2024.
+  * B. Chatterjee, S. Chaudhari, Z. Li, Y. Liu, and R. Dutta, "Wireless Signal Source Localization by Unmanned Aerial Vehicle using AERPAW Digital Twin and Testbed", IFIP/IEEE Networking, in the Workshop on Thought experiments, data and reproducibility for networking and FutureG research (**SLICES**), 2024.
 
-  * H. Yu, Y. Liu, and M. Chen, "Complex-Valued Neural Network Based Federated Learning for Multi-User Indoor Positioning Performance Optimization", IEEE Internet of Things Journal, 2024
+  * H. Yu, Y. Liu, and M. Chen, "Complex-Valued Neural Network Based Federated Learning for Multi-User Indoor Positioning Performance Optimization" [J], IEEE Internet of Things Journal (**IoT-J**), 2024
 
-  * X. Luo, Z. Li, Z. Peng, D. Xu, and Y. Liu, "RM-Gen: Conditional Diffusion Model-Based Radio Map Generation for Wireless Networks", IFIP/IEEE Networking, 2024.
+  * X. Luo, Z. Li, Z. Peng, D. Xu, and Y. Liu, "RM-Gen: Conditional Diffusion Model-Based Radio Map Generation for Wireless Networks", **IFIP/IEEE Networking**, 2024.
 
-  * Z. Li, X. Luo, M. Chen, C. Xu, and Y. Liu, "Context-Aware Beam Management via Online Probing in Combinatorial Multi-Armed Bandits", IEEE International Conference on Communications (ICC), 2024.
+  * Z. Li, X. Luo, M. Chen, C. Xu, and Y. Liu, "Context-Aware Beam Management via Online Probing in Combinatorial Multi-Armed Bandits", IEEE International Conference on Communications (**ICC**), 2024.
  
-  * H. Yu, M. Chen, Z. Yang, and Y. Liu, "Complex Neural Networks for Indoor Positioning with Complex-Valued Channel State Information", IEEE Global Communications Conference (GLOBECOM), 2023.
+  * H. Yu, M. Chen, Z. Yang, and Y. Liu, "Complex Neural Networks for Indoor Positioning with Complex-Valued Channel State Information", IEEE Global Communications Conference (**GLOBECOM**), 2023.
   
 
 &emsp;
