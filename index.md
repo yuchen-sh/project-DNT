@@ -30,6 +30,8 @@
 
  * W. Ding, Z. Yang, M. Chen, Y. Liu, M. Shikh-Bahaei, ''Joint Vehicle Connection and Beamforming Optimization in Digital Twin Assisted Integrated Sensing and Communication Vehicular Networks'', IEEE Internet of Things Journal (**IoT-J**) \[J\], to appear, 2024.
 
+ * Z. Li, M. Chen, G. Li, X. Lin, and Y. Liu, ``Map-Driven mmWave Link Quality Prediction with Spatial-Temporal Mobility Awareness'', IEEE Transactions on Mobile Computing (**TMC**) [J], to appear, 2024.
+
  * Z. Zhang, M. Fang, M. Chen, G. Li, X. Lin, and Y. Liu, ''Securing Distributed Network Digital Twin Systems Against Model Poisoning Attacks'', IEEE Internet of Things Journal (**IoT-J**) \[J\], to appear, 2024. <!--**<font style="background: #44CEF6" color='white' size=2>Networks</font>**--> 
   
   * Z. Zhang, Y. Liu, Z. Peng, M. Chen, D. Xu, and S. Cui, ''Digital Twin-Assisted Data-Driven Optimization for Reliable Edge Caching in Wireless Networks'' [J], IEEE Journal on Selected Areas in Communications (**JSAC**) \[J\], to appear, 2024.
