@@ -70,9 +70,11 @@
 
 * **<font size=4> Education, Outreach and Broader Impacts </font>**
 
-  * The introduction of digital network twin has been added in the graduate class CSC/ECE Advanced NextG Network Design at North Carolina State University.
+  * **Integrating Research \& Teaching**: The introduction of digital network twin has been added in the newly developed course *CSC/ECE Advanced NextG Network Design* at both Department of Computer Science and Department of Electrical and Computer Engineering, North Carolina State University.
  
-  * Organize Summer Residential Camp: Seeing through a Digital World, inspiring high-school students to explore the intricate workings of complex network systems and simulations within the digital realm.
+  * **Cultivating Interests among High School Students**: PI has regularly organized the Summer Residential Camp -- *Seeing through a Digital World*, inspiring high-school students to explore the intricate workings of complex network systems and simulations within the digital realm. Several rising senior high school students from Green Level and Enloe High Schools in Cary, NC also worked in the PI's lab on topics related to digital network twins. To name a few: Rohit Kota, Maulik Verma, and Jaden Mu.
+ 
+  * **Facilitating Undergraduate Research**: Several NCSU Undergraduate students worked in the PI's lab on topics related to radio access networks and data generation. To name a few: Jordan Miller, Nitesh Kanamarlapudi, and Krushi Bandam.
 
 
 
