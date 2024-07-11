@@ -74,7 +74,7 @@
  
   * **Cultivating Interests among High School Students**: PI has regularly organized the Summer Residential Camp -- *Seeing through a Digital World*, inspiring high-school students to explore the intricate workings of complex network systems and simulations within the digital realm. Several rising senior high school students from Green Level and Enloe High Schools in Cary, NC also worked in the PI's lab on topics related to digital network twins. To name a few: Rohit Kota, Maulik Verma, and Jaden Mu.
  
-  * **Facilitating Undergraduate Research**: Several NCSU Undergraduate students worked in the PI's lab on topics related to radio access networks and data generation. To name a few: Jordan Miller, Nitesh Kanamarlapudi, and Krushi Bandam.
+  * **Facilitating Undergraduate Research**: Several NCSU undergraduate students worked in the PI's lab on topics related to radio access networks and data generation. To name a few: Jordan Miller, Nitesh Kanamarlapudi, and Krushi Bandam.
 
 
 
