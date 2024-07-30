@@ -52,7 +52,7 @@
  
   * H. Yu, M. Chen, Z. Yang, and Y. Liu, "Complex Neural Networks for Indoor Positioning with Complex-Valued Channel State Information", IEEE Global Communications Conference (**GLOBECOM**), 2023.
  
-  * J. Chen, S. Zhao, Y. Liu, and Z. Luo, "MMP: A Dynamic Routing Protocol Design to Proactively Defend against Wireless Network Inference Attacks", ACM Conference on Computer and Communications Security (**CCS**) Workshop on Moving Target Defense, 2023.
+  <!-- * J. Chen, S. Zhao, Y. Liu, and Z. Luo, "MMP: A Dynamic Routing Protocol Design to Proactively Defend against Wireless Network Inference Attacks", ACM Conference on Computer and Communications Security (**CCS**) Workshop on Moving Target Defense, 2023. -->
   
 
 &emsp;
