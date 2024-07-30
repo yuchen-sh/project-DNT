@@ -28,6 +28,8 @@
 
 * **<font size=4> Publications </font>**
 
+  * H. Yu, Y. Liu, and M. Chen, “Joint Communication and Synchronization Performance Optimization in Digital Twin Enabled Networks”, Proc. of IEEE Global Communications Conference (**GLOBECOM**), to appear, 2024.
+
   * W. Ding, Z. Yang, M. Chen, Y. Liu, M. Shikh-Bahaei, ''Joint Vehicle Connection and Beamforming Optimization in Digital Twin Assisted Integrated Sensing and Communication Vehicular Networks'', IEEE Internet of Things Journal (**IoT-J**) \[J\], to appear, 2024.
 
   * Z. Li, M. Chen, G. Li, X. Lin, and Y. Liu, ''Map-Driven mmWave Link Quality Prediction with Spatial-Temporal Mobility Awareness'', IEEE Transactions on Mobile Computing (**TMC**) [J], to appear, 2024.
