@@ -78,7 +78,7 @@
  
   * **Facilitating Undergraduate Research**: Several NCSU undergraduate students worked in the PI's lab on topics related to radio access networks and data generation. To name a few: Jordan Miller, Nitesh Kanamarlapudi, and Krushi Bandam.
  
-  *  **Dissemination to Communities of Interest**: PI has co-organized The 48th IEEE COMPSAC on Digital Twins for the Metaverse and IEEE ICC Workshop on Edge Learning over 5G Mobile Networks and Beyond to share cutting-edge research, foster collaboration, and advance the understanding of digital twins and edge learning technologies. <!-- These events aimed to bring together experts, practitioners, and researchers to discuss the latest advancements, challenges, and future directions in these fields. -->
+  *  **Dissemination to Communities of Interest**: PI has co-organized The 48th IEEE COMPSAC Workshop on Digital Twins for the Metaverse and IEEE ICC Workshop on Edge Learning over 5G Mobile Networks and Beyond to share cutting-edge research, foster collaboration, and advance the understanding of digital twins and edge learning technologies. <!-- These events aimed to bring together experts, practitioners, and researchers to discuss the latest advancements, challenges, and future directions in these fields. -->
 
 
 
