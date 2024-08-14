@@ -5,7 +5,7 @@
 
 * **<font size=4> Project Information </font>**
 
-  * Award numbers: NSF CNS-2312138
+  * Award numbers: NSF CNS-2312138, CNS-2312139
   * Project period: 10/1/2023 – 9/30/2026
   * Principal investigator: Dr. Yuchen Liu (lead PI), Dr. Mingzhe Chen
   * Graduate students: Zifan Zhang, Zhizhen Li, Hanzhi Yu
