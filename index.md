@@ -8,7 +8,7 @@
   * Award numbers: NSF CNS-2312138
   * Project period: 10/1/2023 – 9/30/2026
   * Principal investigator: Dr. Yuchen Liu (lead PI), Dr. Mingzhe Chen
-  * Graduate students: Zifan Zhang, Zhizhen Li
+  * Graduate students: Zifan Zhang, Zhizhen Li, Hanzhi Yu
     <!-- <img alt="" src="Research8.png" width="65%" height="65%" /> -->
 
 
@@ -72,7 +72,7 @@
 
 * **<font size=4> Education, Outreach and Broader Impacts </font>**
 
-  * **Integrating Research & Teaching**: The introduction of digital network twin has been added in the newly developed course *CSC/ECE Advanced NextG Network Design* at both Department of Computer Science and Department of Electrical and Computer Engineering, North Carolina State University.
+  * **Integrating Research & Teaching**: The introduction of digital network twin has been added in the newly developed course *CSC/ECE Advanced NextG Network Design* at both Department of Computer Science and Department of Electrical and Computer Engineering, North Carolina State University. The introduction of using neural networks for digital network twin optimization has been added in the graduate class ECE 553/653 Neural Networks at University of Miami.
  
   * **Cultivating Interests among High School Students**: PI has regularly organized the Summer Residential Camp -- *Seeing through a Digital World*, inspiring high-school students to explore the intricate workings of complex network systems and simulations within the digital realm. Several rising senior high school students from Green Level and Enloe High Schools in Cary, NC also worked in the PI's lab on topics related to digital network twins. To name a few: Rohit Kota, Maulik Verma, and Jaden Mu.
  
