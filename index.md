@@ -7,8 +7,8 @@
 
   * Award numbers: NSF CNS-2312138, CNS-2312139
   * Project period: 10/1/2023 – 9/30/2026
-  * Principal investigator: Dr. Yuchen Liu (lead PI), Dr. Mingzhe Chen
-  * Graduate students: Zifan Zhang, Zhizhen Li, Hanzhi Yu
+  * Principal investigator: Dr. Yuchen Liu (lead PI, NCSU), Dr. Mingzhe Chen (UM)
+  * Graduate students: Zifan Zhang (NCSU), Zhizhen Li (NCSU), Hanzhi Yu (UM)
     <!-- <img alt="" src="Research8.png" width="65%" height="65%" /> -->
 
 
@@ -51,6 +51,8 @@
   * Z. Li, X. Luo, M. Chen, C. Xu, and Y. Liu, "Context-Aware Beam Management via Online Probing in Combinatorial Multi-Armed Bandits", IEEE International Conference on Communications (**ICC**), 2024.
  
   * H. Yu, M. Chen, Z. Yang, and Y. Liu, "Complex Neural Networks for Indoor Positioning with Complex-Valued Channel State Information", IEEE Global Communications Conference (**GLOBECOM**), 2023.
+ 
+  * M. Chen and S. Cui, "Communication Efficient Federated Learning for Wireless Networks", Springer International Publishing, Singapore, 2023.
  
   <!-- * J. Chen, S. Zhao, Y. Liu, and Z. Luo, "MMP: A Dynamic Routing Protocol Design to Proactively Defend against Wireless Network Inference Attacks", ACM Conference on Computer and Communications Security (**CCS**) Workshop on Moving Target Defense, 2023. -->
   
