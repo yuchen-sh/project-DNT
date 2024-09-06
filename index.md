@@ -65,6 +65,8 @@
 
   * The repository for the development of digital twin in next-generation wireless network (mmWave, 5G/6G) based on ns-3 and ray tracer. [Link](https://github.com/yuchen-sh/Network-Digital-Twin)
  
+  * Joint vertical-horizontal mapper for the creation of decentralized digital network twins. [Link](https://github.com/ZzZTripleZzZ/Digital-Network-Twins/tree/main) [Paper](https://ieeexplore.ieee.org/document/10619056)
+ 
   * Ray-tracing software for mapping signal propagation profiles. [Link](https://github.com/yuchen-sh/Ray-tracer-for-network-twinning)
  
   * The platform for the development of digital twin in 3D wireless networks for signal source localization based on NSF AERPAW testbed and Virtual Development Environment. [Link (to be announced)](https://github.ncsu.edu/bchatte/RoverChallenge)
