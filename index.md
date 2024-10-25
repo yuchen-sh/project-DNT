@@ -70,6 +70,8 @@
  
   * Ray-tracing software for mapping signal propagation profiles. [Link](https://github.com/yuchen-sh/Ray-tracer-for-network-twinning)
  
+  * Network visualizer with hands-on scripts and examples for digital twin education: [Link](https://github.com/rohitkotanc/rkotans3/tree/main/ns-3.38)
+ 
   * The platform for the development of digital twin in 3D wireless networks for signal source localization based on NSF AERPAW testbed and Virtual Development Environment. [Link (to be announced)](https://github.ncsu.edu/bchatte/RoverChallenge)
 
 
